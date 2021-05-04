@@ -16,7 +16,7 @@ meme 是承载文化思想、符号或实践的一个包含甚广的单位，可
 
 指现在存在的查询“梗”的百科网站。
 
-中文：小鸡词典 https://jikipedia.com/
+中文：小鸡词典 https://jikipedia.com/ ；鲸吼 https://www.jinghooo.com/
 
 英文：urban dictionary https://www.urbandictionary.com/  ； Know your MeMe https://knowyourmeme.com/
 
